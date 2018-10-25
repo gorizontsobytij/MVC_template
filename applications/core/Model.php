@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: igor
- * Date: 14.06.18
- * Time: 23:28
- */
 
 class Model
 {
